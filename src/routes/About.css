@@ -1,0 +1,14 @@
+.about {
+  width: 500px;
+  box-shadow: 0 0 10px 10px #d2d2d2;
+  padding: 15px;
+  box-sizing: border-box;
+  margin: 200px auto 0;
+  text-align: center;
+}
+
+.about p {
+  text-align: left;
+  font-size: 16px;
+  line-height: 20px;
+}
